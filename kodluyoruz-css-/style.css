@@ -1,0 +1,28 @@
+body{
+    background-color:coral;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:maroon
+}
+.navbar{
+
+    text-align:center;
+ 
+}
+.nav_liste{
+    font-size: 20px;
+
+    padding: 20px;
+}
+
+.alt-baslik{
+    text-align:center;
+    margin-top: 50px;
+}
+.container{
+    text-indent: 25px;
+    text-align: justify;
+}
+.baklava-list{
+    padding:30px;
+    width: 300px;
+}
